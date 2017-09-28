@@ -1,0 +1,13 @@
+{
+  "name": "ocaml-cmdliner",
+  "sources": [
+    "src",
+    {
+      "dir": "test",
+      "type": "dev"
+    }
+  ],
+  "bs-dependencies": [
+    "ocaml-result"
+  ]
+}

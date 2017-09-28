@@ -1,0 +1,8 @@
+{
+  "name": "ocaml-cmdliner",
+  "version": "1.0.2",
+  "private": true,
+  "dependencies": {
+    "ocaml-result": "github:ryanartecona/result#bsb-native"
+  }
+}
